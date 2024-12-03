@@ -18,7 +18,7 @@ h1 {
 }
 .container {
   display: flex;
-  gap: 35px;
+  gap: 36px;
   padding: 30px;
 }
 .weather-input {
